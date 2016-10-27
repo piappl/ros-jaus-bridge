@@ -1,0 +1,12 @@
+int16 PropulsiveLinearEffortX
+int16 PropulsiveLinearEffortY
+int16 PropulsiveLinearEffortZ
+int16 PropulsiveRotationalEffortX
+int16 PropulsiveRotationalEffortY
+int16 PropulsiveRotationalEffortZ
+int16 ResistiveLinearEffortX
+int16 ResistiveLinearEffortY
+int16 ResistiveLinearEffortZ
+int16 ResistiveRotationalEffortX
+int16 ResistiveRotationalEffortY
+int16 ResistiveRotationalEffortZ
